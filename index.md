@@ -7,8 +7,8 @@ title: Lord of The Rings - Project
 
 ## Overview 
 
-[1. Introduction](#1---introduction)
-2. Data
+1.[Introduction](#1---introduction)
+2.[Data](#2---data)
 3. Networks
 4. Basic Analysis
 5. Community Detection
@@ -18,3 +18,7 @@ title: Lord of The Rings - Project
 ## 1 - Introduction 
 
 {% include video.html %}
+
+## 2 - Data
+
+
