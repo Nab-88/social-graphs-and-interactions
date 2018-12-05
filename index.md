@@ -20,5 +20,20 @@ title: Lord of The Rings - Project
 {% include video.html %}
 
 ## 2 - Data
+We divided our analysis in three different ones, based on the datasets we had.
+
+#### The fan Wiki of Lord of The Rings
+
+From this wiki specific to Lord of The Rings we've downloaded all the wikipages of all the characters from the movies.
+
+#### Transcripts of the movie
+
+We found a dataset, containing what the characters of the movies are saying. 
+
+#### Books
+
+We downloaded the three books from J.R.R Tolkien.
+
+#### Click here to dowload our datasets.
 
 
