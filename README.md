@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hello World
 
 You can use the [editor on GitHub](https://github.com/Nab-88/social-graphs-and-interactions/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
