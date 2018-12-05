@@ -22,18 +22,56 @@ title: Lord of The Rings - Project
 ## 2 - Data
 We divided our analysis in three different ones, based on the datasets we had.
 
-#### The fan Wiki of Lord of The Rings
+#### 1. The fan Wiki of Lord of The Rings
 
 From this wiki specific to Lord of The Rings we've downloaded all the wikipages of all the characters from the movies.
 
-#### Transcripts of the movie
+#### 2. Transcripts of the movie
 
 We found a dataset, containing what the characters of the movies are saying. 
 
-#### Books
+#### 3. Books
 
 We downloaded the three books from J.R.R Tolkien.
 
 #### Click here to dowload our datasets.
+
+## 3 - Networks
+
+#### 1. Network based on the link inside the wikipages
+
+Nodes are the characters and edges are the link from the wikipage of one character to another one.
+
+#### 2. Network based on the chapters of the books
+
+Nodes are the characters and there is an edge between two characters each time there appear in the same chapter
+
+#### 3. Network base on lyrics from the movies
+
+Nodes are the characters and there is an edge between two characters each time a character is prononcing the name of another character
+
+## 4 - Basic Analysis 
+
+#### Who is the most connected charaters 
+
+Here we have to :
+- precise if there are differences between the graph and to interpret these differences
+- Analyse the result 
+- Find funny or weird result
+
+#### Degree distribution
+
+Here we have to:
+- Analyse the results
+- Explain a intersting fact to explain to the readers
+
+## 5 - Community detection
+
+Here we have to:
+- Create community for the most relevant graph
+- Analyse them and explain the results
+- Create community based on race or culture
+- Compare them
+- And find the ties between community with cconfusion matrix
 
 
