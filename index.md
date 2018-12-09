@@ -78,4 +78,5 @@ Here we have to:
 
 
 ## 7 Sentiment analysis
-
+- Sentiment analaysis on the book.
+- Find out who is the best and worst in each movie, instead of all three at the same time.
