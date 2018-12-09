@@ -74,4 +74,8 @@ Here we have to:
 - Compare them
 - And find the ties between community with cconfusion matrix
 
+## 6 Text analysis
+
+
+## 7 Sentiment analysis
 
