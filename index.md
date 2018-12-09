@@ -46,11 +46,13 @@ Nodes are the characters and edges are the link from the wikipage of one charact
 
 Nodes are the characters and there is an edge between two characters each time there appear in the same chapter
 
-#### 3. Network base on lyrics from the movies
+#### 3. Network base on lyrics from the movies (maybe not this one)
 
 Nodes are the characters and there is an edge between two characters each time a character is prononcing the name of another character
 
 ## 4 - Basic Analysis 
+
+To do for both of the networks
 
 #### Who is the most connected charaters 
 
@@ -74,9 +76,13 @@ Here we have to:
 - Compare them
 - And find the ties between community with cconfusion matrix
 
-## 6 Text analysis
 
-
-## 7 Sentiment analysis
-- Sentiment analaysis on the book.
+## 6 - Sentiment analysis
+- Sentiment analysis on the book. -> display the evolution of sentiment through the books and print wordcloud for the worst chapter and the best one
 - Find out who is the best and worst in each movie, instead of all three at the same time.
+
+
+## 7 - Text analysis
+- Word cloud for chapters
+- Word cloud for communities ?
+- Word cloud for specific character ?
