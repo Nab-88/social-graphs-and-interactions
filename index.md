@@ -77,6 +77,8 @@ Here we have to:
 
 ### 6.1 - Sentiment analysis over characters
 
+{% include carousel_word.html %}
+
 We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
