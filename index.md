@@ -77,21 +77,25 @@ Here we have to:
 
 ### 6.1 - Sentiment analysis over characters
 
-{% include carousel_word.html %}
 
 We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
 
-![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie1")
+![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie 1")
+
+![alt text](./assets/LOTR2_sent_movie.png "Ranking for movie 2")
+
+![alt text](./assets/LOTR3_sent_movie.png "Ranking for movie 3")
 
 So for here are the most interesting results:
 
-| Book                          | Baddest       | Nicest  |
+| Book                          | Nicest        | Baddest |
 | -----------------------------:|--------------:| -------:|
 | The Fellowship of the Ring    | Name          | Name    |
 | The Two Towers                | Name          | Name    |
 | The Return of The King        | Name          | Name    |
+
 
 --> include words cloud of some of these characters (the most relevants) <--
 
@@ -105,6 +109,7 @@ We then try to know  what happens during these two moments: chapter X and chapte
 Then we performed a text analysis on those two chapters, here are the words clouds of these two chapters:
 
 -->include word cloud when gandalf dies <--
+
 -->include word cloud when merry and pippin are back <--
 
 
