@@ -7,8 +7,8 @@ title: Lord of The Rings - Project
 
 ## Overview 
 
-1. [(Introduction)](#1---introduction)
-2. [(Data)](#2---data)
+1. [Introduction](#1---introduction)
+2. [Data](#2---data)
 3. Networks
 4. Basic Analysis
 5. Community Detection
@@ -46,10 +46,6 @@ Nodes are the characters and edges are the link from the wikipage of one charact
 
 Nodes are the characters and there is an edge between two characters each time there appear in the same chapter
 
-#### 3. Network base on lyrics from the movies (maybe not this one)
-
-Nodes are the characters and there is an edge between two characters each time a character is prononcing the name of another character
-
 ## 4 - Basic Analysis 
 
 To do for both of the networks
@@ -80,7 +76,7 @@ Here we have to:
 ## 6 - Sentiment analysis
 - Sentiment analysis on the book. -> display the evolution of sentiment through the books and print wordcloud for the worst chapter and the best one
 - Find out who is the best and worst in each movie, instead of all three at the same time.
-
+{% include carousel_words.html %}
 
 ## 7 - Text analysis
 - Word cloud for chapters
