@@ -74,9 +74,16 @@ Here we have to:
 
 
 ## 6 - Sentiment analysis
-- Sentiment analysis on the book. -> display the evolution of sentiment through the books and print wordcloud for the worst chapter and the best one
-- Find out who is the best and worst in each movie, instead of all three at the same time.
-{% include carousel_words.html %}
+We also wanted to know who are the nicest and badest guys in each book.
+We performed a sentiment analysis over each book:
+### --> include image of the ranking here
+
+So for here are the most interesting results:
+| Book                          | Baddest       | Nicest  |
+| ----------------------------- |:-------------:| -------:|
+| The Fellowship of the Ring    | Name          | Name    |
+| The Two Towers                | Name          | Name    |
+| The Return of The King        | Name          | Name    |
 
 ## 7 - Text analysis
 - Word cloud for chapters
