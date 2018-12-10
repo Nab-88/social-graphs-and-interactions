@@ -88,15 +88,18 @@ We performed a sentiment analysis over each book:
 
 ![alt text](./assets/LOTR3_sent_movie.png "Ranking for movie 3")
 
-So for here are the most interesting results:
-
-![alt text](./assets/lotr_sent_allmovies.png "Ranking for characters who appears in the three movies")
-
 | Book                          | Top 3 Nicest        |Top 3 Baddest |
 | -----------------------------:|--------------------:| -------:|
 | The Fellowship of the Ring    | Bilbo, Pippin, Barliman        | Sam, Boromir, Saruman    |
 | The Two Towers                | Boromir, Arwen, Soldier          | Grima, Smeagol, Orc    |
 | The Return of The King        | Treebeard, Bilbo, Smeagol          | Gothmog, Eomer, Legolas    |
+
+---
+
+To summarize all the sentiments of the characters here is the ranking of the characters from the Nicest (on the left) to the baddest (on the right)
+
+![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
+
 
 More generally, it appears that Bilbo is one of the nicest person in the Middle Earth but this analysis confirms what we were expecting, that Orcs and Saruman are the real bad guys of Lord of the Rings.
 
