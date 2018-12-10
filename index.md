@@ -81,7 +81,6 @@ We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
 
-Inline-style: 
 ![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie1")
 
 So for here are the most interesting results:
@@ -98,7 +97,7 @@ So for here are the most interesting results:
 
 Thanks to the sentiment analysis we performed we are able to know when are the darkest and the happiest time of the story
 
---> include image of the evolution here <--
+![alt text](./assets/sentiment.png "Evolution of sentiments through the story chapter by chapter")
 
 We then try to know  what happens during these two moments: chapter X and chapter Y.
 Then we performed a text analysis on those two chapters, here are the words clouds of these two chapters:
