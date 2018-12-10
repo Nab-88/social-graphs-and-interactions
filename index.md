@@ -74,9 +74,12 @@ Here we have to:
 
 
 ## 6 - Sentiment analysis
+
+### 6.1 - Sentiment analysis over characters
+
 We also wanted to know who are the nicest and badest guys in each book.
 We performed a sentiment analysis over each book:
-### --> include image of the ranking here
+--> include image of the ranking here for one movie (the most relevant) <--
 
 So for here are the most interesting results:
 
@@ -86,7 +89,19 @@ So for here are the most interesting results:
 | The Two Towers                | Name          | Name    |
 | The Return of The King        | Name          | Name    |
 
-## 7 - Text analysis
-- Word cloud for chapters
-- Word cloud for communities ?
-- Word cloud for specific character ?
+--> include words cloud of some of these characters (the most relevants) <--
+
+### 6.2 - Evolution of sentiments over the books
+
+Thanks to the sentiment analysis we performed we are able to know when are the darkest and the happiest time of the story
+
+--> include image of the evolution here <--
+
+We then try to know  what happens during these two moments: chapter X and chapter Y.
+Then we performed a text analysis on those two chapters, here are the words clouds of these two chapters:
+
+-->include word cloud when gandalf dies <--
+-->include word cloud when merry and pippin are back <--
+
+
+
