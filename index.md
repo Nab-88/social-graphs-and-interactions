@@ -98,11 +98,13 @@ So for here are the most interesting results:
 
 More generally, it appears that Bilbo is one of the nicest person in the Middle Earth but this analysis confirms what we were expecting, that Orcs and Saruman are the real bad guys of Lord of the Rings.
 
---> include words cloud of some of these characters (the most relevants) <--
 
 ![alt text](./assets/bilbo_wc.png "Most frequent words for Bilbo")
 
+
 ![alt text](./assets/saruman_wc.png "Most frequent words for Saruman")
+
+We can see that the most words most frequently said by Saruman are : Burn, Sauron, Fire (to complete)...
 
 ### 6.2 - Evolution of sentiments over the books
 
