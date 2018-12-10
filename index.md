@@ -78,7 +78,9 @@ Here we have to:
 ### 6.1 - Sentiment analysis over characters
 
 We also wanted to know who are the nicest and badest guys in each book.
+
 We performed a sentiment analysis over each book:
+
 --> include image of the ranking here for one movie (the most relevant) <--
 
 So for here are the most interesting results:
