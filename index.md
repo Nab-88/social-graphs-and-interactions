@@ -90,6 +90,8 @@ We performed a sentiment analysis over each book:
 
 So for here are the most interesting results:
 
+![alt text](./assets/lotr_sent_allmovies.png "Ranking for characters who appears in the three movies")
+
 | Book                          | Top 3 Nicest        |Top 3 Baddest |
 | -----------------------------:|--------------------:| -------:|
 | The Fellowship of the Ring    | Bilbo, Pippin, Barliman        | Sam, Boromir, Saruman    |
