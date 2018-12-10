@@ -126,4 +126,6 @@ Then we performed a text analysis on those two chapters, here are the words clou
 -->include word cloud when merry and pippin are back <--
 
 
+### 6.3 - When a specific words is appearing in the story
 
+  Plot this.
