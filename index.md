@@ -79,8 +79,9 @@ We performed a sentiment analysis over each book:
 ### --> include image of the ranking here
 
 So for here are the most interesting results:
+
 | Book                          | Baddest       | Nicest  |
-| ----------------------------- |:-------------:| -------:|
+| -----------------------------:|--------------:| -------:|
 | The Fellowship of the Ring    | Name          | Name    |
 | The Two Towers                | Name          | Name    |
 | The Return of The King        | Name          | Name    |
