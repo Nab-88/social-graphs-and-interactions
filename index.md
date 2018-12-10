@@ -101,7 +101,8 @@ To summarize all the sentiments of the characters here is the ranking of the cha
 ![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
 
 
-More generally, it appears that Bilbo is one of the nicest person in the Middle Earth but this analysis confirms what we were expecting, that Orcs and Saruman are the real bad guys of Lord of the Rings.
+More generally, it appears that Bilbo is one of the nicest person in the Middle Earth and especially all the hobits like Merry and Pippin and nice persons. But this analysis confirms what we were expecting, that Orcs, Gothmog and Grima are really bad persons. 
+But we also have some suprise like Saruman who is in th middle of the ranking which could be explain because in the beginning of the story is lying to Gandalf and faking to be a good magician.
 
 
 ![alt text](./assets/bilbo_wc.png "Most frequent words for Bilbo")
@@ -109,7 +110,7 @@ More generally, it appears that Bilbo is one of the nicest person in the Middle 
 
 ![alt text](./assets/saruman_wc.png "Most frequent words for Saruman")
 
-We can see that the most words most frequently said by Saruman are : Burn, Sauron, Fire (to complete)...
+We can see that the most words most frequently said by Saruman are : Burn, Sauron, Fire, War ...
 
 ### 6.2 - Evolution of sentiments over the books
 
