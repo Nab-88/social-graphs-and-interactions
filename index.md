@@ -81,7 +81,8 @@ We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
 
---> include image of the ranking here for one movie (the most relevant) <--
+Inline-style: 
+![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie1")
 
 So for here are the most interesting results:
 
