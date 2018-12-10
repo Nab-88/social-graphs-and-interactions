@@ -90,11 +90,11 @@ We performed a sentiment analysis over each book:
 
 So for here are the most interesting results:
 
-| Book                          | Nicest        | Baddest |
-| -----------------------------:|--------------:| -------:|
-| The Fellowship of the Ring    | Name          | Name    |
-| The Two Towers                | Name          | Name    |
-| The Return of The King        | Name          | Name    |
+| Book                          | Top 3 Nicest        |Top 3 Baddest |
+| -----------------------------:|--------------------:| -------:|
+| The Fellowship of the Ring    | Bilbo, Pippin, Barliman        | Sam, Boromir, Saruman    |
+| The Two Towers                | Boromir, Arwen, Soldier          | Grima, Smeagol, Orc    |
+| The Return of The King        | Treebeard, Bilbo, Smeagol          | Gothmog, Eomer, Legolas    |
 
 
 --> include words cloud of some of these characters (the most relevants) <--
