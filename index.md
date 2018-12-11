@@ -31,11 +31,15 @@ If you want to download the files containing the wikipages data [click here](htt
 
 #### 2. Transcripts of the movie
 
-We found a dataset, containing what the characters of the movies are saying. ==> put the link to have access to the .csv file containing the transcript we used.
+We found a dataset, containing what the characters of the movies are saying. [Click here to have access to our trasncripts.](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/lotr_scripts.csv)
 
 #### 3. Books
 
-We downloaded the three books from J.R.R Tolkien. ==> put the link here to download the 3 books cleaned that we used for working.
+We downloaded the three books from J.R.R Tolkien from [this website.](https://archive.org/)
+Here you can download the books we used for our project.
+- [Book 1 - The Fellowship of the Rings](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR1_book_CLEAN.txt)
+- [Book 2 - The Two Towers](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR3_book_CLEAN.txt)
+- [Book 3 - The Return of the King](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR2_book_CLEAN.txt)
 
 
 #### Click here to dowload our datasets.
