@@ -26,7 +26,7 @@ We divided our analysis in three different ones, based on the datasets we had.
 
 [Here's the link to the wiki](http://lotr.wikia.com/wiki/Main_Page) where we extracteed the content of all the wikipages from all the characters present in Lord Of the Rings story.
 
-If you want to download the files containing the wikipages data click here ==> put a link here to access a zip file contained the .txt files.
+If you want to download the files containing the wikipages data [click here](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/characters.zip). (You will have access to a .zip files containing a .txt file for each characters of the wiki.)
 
 
 #### 2. Transcripts of the movie
