@@ -53,7 +53,7 @@ Nodes are the characters and edges are the link from the wikipage of one charact
 We have created a network based on the books. Therefore, we look at each chapter and analyzed who were the characters in this chapter. If two characters are in the same chapter it means that they are connected, so there is a link between them.
 That's how we build the network that you can see bellow:
 
-![alt text](./assets/All_books_graph "Network based on the chapters of the books")
+![alt text](./assets/All_books_graph.png "Network based on the chapters of the books")
 
 
 ## 4 - Basic Analysis 
