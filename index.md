@@ -58,7 +58,11 @@ That's how we build the network that you can see bellow:
 
 ## 4 - Basic Analysis 
 
-To do for both of the networks
+### Wiki Network
+
+| Indegree                          | Outdegree       |Total degree | eigen Vector | Betweeness |Closeness |
+| -----------------------------:|--------------------:| -------:| -------:|-------:| -------:|
+| Frodo (X)   | Bilbo (Y)       | Frodo (X)   | Bilbo (Y)       |Frodo (X)   | Bilbo (Y)       |
 
 #### Who is the most connected charaters 
 
