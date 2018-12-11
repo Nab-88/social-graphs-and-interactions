@@ -42,8 +42,6 @@ Here you can download the books we used for our project.
 - [Book 3 - The Return of the King](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR2_book_CLEAN.txt)
 
 
-#### Click here to dowload our datasets.
-
 ## 3 - Networks
 
 #### 1. Network based on the link inside the wikipages
