@@ -115,10 +115,10 @@ More generally, it appears that Bilbo is one of the nicest person in the Middle 
 But we also have some suprise like Saruman who is in th middle of the ranking which could be explain because in the beginning of the story is lying to Gandalf and faking to be a good magician.
 
 
-![alt text](./assets/bilbo_wc.png "Most frequent words for Bilbo")
+![alt text](./assets/wordclouds/bilbo_wc.png "Most frequent words for Bilbo")
 
 
-![alt text](./assets/saruman_wc.png "Most frequent words for Saruman")
+![alt text](./assets/wordclouds/saruman_wc.png "Most frequent words for Saruman")
 
 We can see that the most words most frequently said by Saruman are : Burn, Sauron, Fire, War ...
 
