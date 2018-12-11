@@ -37,7 +37,7 @@ We found a dataset, containing what the characters of the movies are saying. [Cl
 
 We downloaded the three books from J.R.R Tolkien from [this website.](https://archive.org/)
 Here you can download the books we used for our project.
-- [Book 1 - The Fellowship of the Rings](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR1_book_CLEAN.txt)
+- [Book 1 - The Fellowship of the Ring](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR1_book_CLEAN.txt)
 - [Book 2 - The Two Towers](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR3_book_CLEAN.txt)
 - [Book 3 - The Return of the King](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR2_book_CLEAN.txt)
 
@@ -50,7 +50,11 @@ Nodes are the characters and edges are the link from the wikipage of one charact
 
 #### 2. Network based on the chapters of the books
 
-Nodes are the characters and there is an edge between two characters each time there appear in the same chapter
+We have created a network based on the books. Therefore, we look at each chapter and analyzed who were the characters in this chapter. If two characters are in the same chapter it means that they are connected, so there is a link between them.
+That's how we build the network that you can see bellow:
+
+![alt text](./assets/All_books_graph "Network based on the chapters of the books")
+
 
 ## 4 - Basic Analysis 
 
