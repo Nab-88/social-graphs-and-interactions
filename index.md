@@ -24,15 +24,19 @@ We divided our analysis in three different ones, based on the datasets we had.
 
 #### 1. The fan Wiki of Lord of The Rings
 
-From this wiki specific to Lord of The Rings we've downloaded all the wikipages of all the characters from the movies.
+Here's the link to the wiki were we extracteed the content of all the wikipages from all the characters present in Lord Of the Rings story. ==> put the link here
+
+If you want to download the files containing the wikipages data click here ==> put a link here to access a zip file contained the .txt files.
+
 
 #### 2. Transcripts of the movie
 
-We found a dataset, containing what the characters of the movies are saying. 
+We found a dataset, containing what the characters of the movies are saying. ==> put the link to have access to the .csv file containing the transcript we used.
 
 #### 3. Books
 
-We downloaded the three books from J.R.R Tolkien.
+We downloaded the three books from J.R.R Tolkien. ==> put the link here to download the 3 books cleaned that we used for working.
+
 
 #### Click here to dowload our datasets.
 
