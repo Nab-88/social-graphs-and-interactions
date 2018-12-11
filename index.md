@@ -24,7 +24,7 @@ We divided our analysis in three different ones, based on the datasets we had.
 
 #### 1. The fan Wiki of Lord of The Rings
 
-Here's the link to the wiki were we extracteed the content of all the wikipages from all the characters present in Lord Of the Rings story. ==> put the link here
+[Here's the link to the wiki](http://lotr.wikia.com/wiki/Main_Page) where we extracteed the content of all the wikipages from all the characters present in Lord Of the Rings story.
 
 If you want to download the files containing the wikipages data click here ==> put a link here to access a zip file contained the .txt files.
 
