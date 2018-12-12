@@ -123,20 +123,6 @@ We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
 
-![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie 1")
-
-![alt text](./assets/LOTR2_sent_movie.png "Ranking for movie 2")
-
-![alt text](./assets/LOTR3_sent_movie.png "Ranking for movie 3")
-
-| Book                          | Top 3 Nicest        |Top 3 Baddest |
-| -----------------------------:|--------------------:| -------:|
-| The Fellowship of the Ring    | Bilbo, Pippin, Barliman        | Sam, Boromir, Saruman    |
-| The Two Towers                | Boromir, Arwen, Soldier          | Grima, Smeagol, Orc    |
-| The Return of The King        | Treebeard, Bilbo, Smeagol          | Gothmog, Eomer, Legolas    |
-
----
-
 To summarize all the sentiments of the characters here is the ranking of the characters from the Nicest (on the left) to the baddest (on the right)
 
 ![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
@@ -158,6 +144,8 @@ We can see that the most words most frequently said by Saruman are : Burn, Sauro
 Thanks to the sentiment analysis we performed we are able to know when are the darkest and the happiest time of the story
 
 ![alt text](./assets/sentiment.png "Evolution of sentiments through the story chapter by chapter")
+
+To perform the sentiment analysis, we used a database of 10.000 words of the English language, each word in this database is associated to its own sentimental score. Thanks to that, we are able to perform the sentimental analysis on chapters of the book or on what people are saying in the movies.
 
 It is interesting to see that only 6 of the chapters have an average sentiment score higher than our database, meaning that in general the novels has a higher prevalence of words with a lower sentiment rating. However, note that the database we used has 10,222 words, while the number of words in the book is more than 500,000 words long, with multiple languages (Elvish and English) and a high number of words used infrequently in general in modern English.
 
