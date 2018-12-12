@@ -165,12 +165,15 @@ To perform the sentiment analysis, we used a database of 10.000 words of the Eng
 
 It is interesting to see that only 6 of the chapters have an average sentiment score higher than our database, meaning that in general the novels has a higher prevalence of words with a lower sentiment rating. However, note that the database we used has 10,222 words, while the number of words in the book is more than 500,000 words long, with multiple languages (Elvish and English) and a high number of words used infrequently in general in modern English.
 
+#### 6.2.1 - Wordclouds of the highest and lowest sentiment scoring chapters.
+
+The chapter with the worst sentiment ranking is The Bridge of Khazad-dum in the first novel. In the wordcloud one can see words such as 'hacked', 'blade', and 'axe'. Clearly indicating a battle. One who has either read the novels or seen the movies will know more about what's happening based on the words. 
 
 ![alt text](./assets/worst_chapter.png "Word cloud of chapter with the lowest sentiment score")
 
+The chapter with the highest sentiment ranking is Farewell to Lorien, also in the first novel. In addition to some elvish words, we can see 'cakes' and 'drunk' in the cloud, indicatiang some sort of party.
+
 ![alt text](./assets/best_chapter.png "Word cloud of chapter with the lowest sentiment score")
-
-
 
 ### 6.3 - When a specific words is appearing in the story
 
