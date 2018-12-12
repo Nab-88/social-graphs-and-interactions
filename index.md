@@ -10,7 +10,7 @@ title: Lord of The Rings - Project
 1. [Introduction](#1---introduction)
 2. [Data](#2---data)
 3. [Networks](#3---networks)
-4. [Basic Analysis](#4---data-analysis)
+4. [Basic Analysis](#4---basic-analysis)
 5. [Community Detection](#5---community-detection)
 6. [Text analysis and Sentiment analysis](#6---sentiment-analysis-and-text-analysis)
 7. [More details](#7---more-details)
