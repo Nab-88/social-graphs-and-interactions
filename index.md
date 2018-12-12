@@ -26,7 +26,7 @@ Due to our focus only being on the Lord of the Rings, and not on other works of 
 The final goal of this experiment is to understand the movie (the trilogy) and books better, also to see the differences among them. To see how the character related to each other, see the importance of the characters from both the movies and then book. Understand the sentiment of each book and character and see the evolution of the sentiment through out.
 
 ## 2 - Data
-We divided our analysis in three different ones, based on the datasets we had.
+We divided our analysis in three different sections, based on the datasets obtained.
 
 #### 1. The fan Wiki of Lord of The Rings
 
