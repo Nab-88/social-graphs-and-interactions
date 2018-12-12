@@ -166,9 +166,10 @@ To perform the sentiment analysis, we used a database of 10.000 words of the Eng
 It is interesting to see that only 6 of the chapters have an average sentiment score higher than our database, meaning that in general the novels has a higher prevalence of words with a lower sentiment rating. However, note that the database we used has 10,222 words, while the number of words in the book is more than 500,000 words long, with multiple languages (Elvish and English) and a high number of words used infrequently in general in modern English.
 
 
--->include word cloud when gandalf dies <--
+![alt text](./assets/worst_chapter.png "Word cloud of chapter with the lowest sentiment score")
 
--->include word cloud when merry and pippin are back <--
+![alt text](./assets/best_chapter.png "Word cloud of chapter with the lowest sentiment score")
+
 
 
 ### 6.3 - When a specific words is appearing in the story
