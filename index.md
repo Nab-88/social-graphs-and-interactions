@@ -181,6 +181,8 @@ Some other surprising results show Saruman in the middle of the pack, but in the
 
 Below we can see wordclouds for Bilbo and Saruman
 
+> Wordclouds are images containing the words that characters are more frequently saying. The size of the word depends of number of time it is pronounced.
+
 ![alt text](./assets/wordclouds/bilbo_wc.png "Most frequent words for Bilbo")
 
 ![alt text](./assets/wordclouds/saruman_wc.png "Most frequent words for Saruman")
