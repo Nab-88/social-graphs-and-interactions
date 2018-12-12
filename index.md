@@ -233,4 +233,4 @@ As well as that, we can see that Madril is a character who only appears in the m
 
 ## 7 - More details
 
-If you are interested about how we came up to these results and you want to see our code you ca, check [this link to have access to our Explainer Notebook.](http://nbviewer.jupyter.org/github/Nab-88/social-graphs-and-interactions/blob/master/notebook/final.ipynb)
+If you are interested about how we came up with these results or you want to see our code you can check [this link to have access to our Explainer Notebook.](http://nbviewer.jupyter.org/github/Nab-88/social-graphs-and-interactions/blob/master/notebook/final.ipynb)
