@@ -88,7 +88,7 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 
 #### Betweeness:
 
-> The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality > would have more control over the network because a lot of information will pass through him.
+> The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality would have more control over the network because a lot of information will pass through him.
 
 
 #### Who is the most connected charaters 
