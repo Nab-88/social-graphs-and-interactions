@@ -128,7 +128,7 @@ Here we have to:
 - Compare them
 - And find the ties between community with cconfusion matrix
 
-| Community   1        | Community 2              | Community 3          | Community4                 | Community 5             | Community 6               | Community 7              | Community 8 | Community 9                    | Community 10 | Community 11 |
+| Community   1        | Community 2              | Community 3          | Community 4                 | Community 5             | Community 6               | Community 7              | Community 8 | Community 9                    | Community 10 | Community 11 |
 |----------------------|--------------------------|----------------------|----------------------------|-------------------------|---------------------------|--------------------------|-------------|--------------------------------|--------------|--------------|
 | Galdor of the Havens | Grishnákh                | Galadriel            | Hirluin                    | Rúmil (Noldo)           | Milo Burrows              | Fastred (Pelennor Fields | Herefara    | Théoden                        | Targon       | Beechbone    |
 | Nob                  | Arod                     | Thranduil            | Bergil                     | Ufthak                  | Old Noakes                |                          |             | Wídfara                        |              |              |
