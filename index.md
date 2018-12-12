@@ -30,14 +30,14 @@ We divided our analysis in three different sections, based on the datasets obtai
 
 #### 1. The fan Wiki of Lord of The Rings
 
-[Here's the link to the wiki](http://lotr.wikia.com/wiki/Main_Page) where we extracteed the content of all the wikipages from all the characters present in Lord of the Rings story.
+[Here's the link to the wiki](http://lotr.wikia.com/wiki/Main_Page) where we extracted the content of all the wikipages from all the characters present in Lord of the Rings story.
 
 If you want to download the files containing the wikipages data [click here](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/characters.zip). (You will have access to a .zip files containing a .txt file for each characters of the wiki.)
 
 
 #### 2. Transcripts of the movie
 
-We found a dataset, containing what the characters of the movies are saying. [Click here to have access to our trasncripts.](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/lotr_scripts.csv)
+We found a dataset, containing what the characters of the movies are saying. [Click here to have access to our transcripts.](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/lotr_scripts.csv)
 
 #### 3. Books
 
@@ -50,14 +50,21 @@ Here you can download the books we used for our project.
 
 ## 3 - Networks
 
+We chose to print only the network based on the chapters of the books. If interested, the other network can be seen in the notebook. See the link in [part 7](#7---more-details).
+
 #### 1. Network based on the link inside the wikipages
 
 Nodes are the characters and edges are the link from the wikipage of one character to another one.
 
+This network was created as a directed graph. It has 153 nodes and 843 edges with an average in- and out-degree of 5.509
+
+
 #### 2. Network based on the chapters of the books
 
 We have created a network based on the books. Therefore, we look at each chapter and analyzed who were the characters in this chapter. If two characters are in the same chapter it means that they are connected, so there is a link between them.
-That's how we build the network that you can see bellow:
+That's how we build the network that you can see below:
+
+This graph was created as an undirected graph. It has 125 nodes and 1105 edges with an average degree of 17.68.
 
 ![alt text](./assets/All_books_graph.png "Network based on the chapters of the books")
 
@@ -79,7 +86,7 @@ The network based on the link inside wikipages passes the friendship paradox eas
 |Saruman (0.37)   | Frodo (0.310)     |Eowyn (0.084)   | 
 |Sauron (0.32)   | Elrond (0.27)      |Merry (0.066)   | 
 |Merry (0.31)   | Gimli (0.26)    |Saruman (0.065)   |
-|Pippin (0.30)   |  Legolas (0.249)       |Hàma (0.063)   |
+|Pippin (0.30)   |  Legolas (0.249)       |Háma (0.063)   |
 |Legolas (0.27)  | Galadriel (0.246)     | Sam (0.06)       |
 |Galadriel (0.26)   | Saruman (0.23)       |Gamling (0.058)   | 
 |Sam (0.26)   | Gollum (0.18	)     |Grishnákh (0.051)    |
@@ -98,11 +105,11 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 
 #### Eigenvector:
 
-> The eigen vector centrality measures the influence of a character in the network.
+> The eigenvector centrality measures the influence of a character in the network.
 
 Unsurprisingly, Sauron is the most influent character of the story. Which can be explain because he is the person who created the Rings, so he's basically the Lord of the Rings.
 
-Gollum is also appearing in the top 10 most influent characters of the story because he is playing a key role in the story when he helps Frodo to bring the Ring to Mordor.
+Gollum also appears in the top 10 most influent characters of the story because he is playing a key role in the story when he helps Frodo to bring the Ring to Mordor.
 
 One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, Elrond, Galadriel, Saruman (even if he is bad)) in this top 10, because they have a lot of influence over other characters through the story.
 
@@ -110,19 +117,15 @@ One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, 
 
 > The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality would have more control over the network because a lot of information will pass through him.
 
-Here Éowyn and Hàma are very high in the ranking even if they are secondary characters, because they are the link between and important characters and other characters for example Hàma is the right-hand of Théoden, so he has importance if you want to reach Théoden.
+Here Éowyn and Háma are very high in the ranking even if they are secondary characters, because they are the link between important characters and other character. For example Hàma is the right-hand of Théoden, so he has importance if you want to reach Théoden.
 
-#### Final Ranking
+#### Lord of the Rings Awards
 
-So in order to really know who are the most important characters in Lord of the Rings story. We create a competition between each characters.
+We wanted to present the most important characters of the Lord of the Rings through the centrality scores of the network created by the wikipages. We created a competition between the characters, and gave them a scored between 1 and 10 based on their placement in the centrality ranking.
 
 Here's the podium:
 
 ![alt text](./assets/final_podium.png "Top 3 most important characters in Lord of the Rings")
-  
-Here's how we calculate the score:
-Each centrality indicator ranking gives you points: 10 if you arrive first, 9 if you arrive second etc..
-So the final score are:
 
 - Frodo = 28 points
 - Gandalf = 27 points
@@ -131,12 +134,6 @@ So the final score are:
 
 ## 5 - Community detection
 
-Here we have to:
-- Create community for the most relevant graph
-- Analyse them and explain the results
-- Create community based on race or culture
-- Compare them
-- And find the ties between community with cconfusion matrix
 
 | Community   1        | Community 2              | Community 3          | Community 4                 | Community 5             | Community 6               | Community 7              | Community 8 | Community 9                    | Community 10 | Community 11 |
 |----------------------|--------------------------|----------------------|----------------------------|-------------------------|---------------------------|--------------------------|-------------|--------------------------------|--------------|--------------|
@@ -168,6 +165,9 @@ Here we have to:
 |                      |                          | The King of the Dead |                            | Shelob                  |                           |                          |             |                                |              |              |
 |                      |                          | Radagast             |                            |                         |                           |                          |             |                                |              |              |
 
+We can see here how the communities are divided among the different races of middle earth. Communities 4 and 9 include mostly men. Communities 1 and 6 have mostly Hobbits, Community 3 is the Elvish one. Some communities, such as 5 and 2 seem to be more of a mix. That happens due to the battles and adventures throughout the story, forming connections appearing on the wikipages. A few characters seem to be very unconnected to other, and form a single person group.
+
+So as a conclusion, there are large communities including mainly a single race, while other communities are mixed.
 
 #### Confusion Matrix
 
