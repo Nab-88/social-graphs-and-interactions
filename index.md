@@ -67,7 +67,7 @@ That's how we build the network that you can see bellow:
 |Gandalf (0.44)  | Gandalf (0.311)       |Gandalf (0.089)	   |
 |Saruman (0.37)   | Frodo (0.310)     |Eowyn (0.084)   | 
 |Sauron (0.32)   | Elrond (0.27)      |Merry (0.066)   | 
-|Mery (0.31)   | Gimli (0.26)    |Saruman (0.065)   |
+|Merry (0.31)   | Gimli (0.26)    |Saruman (0.065)   |
 |Pippin (0.30)   |  Legolas (0.249)       |Hàma (0.063)   |
 |Legolas (0.27)  | Galadriel (0.246)     | Sam (0.06)       |
 |Galadriel (0.26)   | Saruman (0.23)       |Gamling (0.058)   | 
