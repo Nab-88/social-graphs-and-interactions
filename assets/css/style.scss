@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+
+header{
+   background-color: #000000;
+   background-image: url(../lotr_banner.jpeg); 
+   background-position: 100% 100%;
+   background-repeat: no-repeat;
+}
