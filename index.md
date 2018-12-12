@@ -105,13 +105,9 @@ So the final score are:
 
 Frodo = 28
 Gandalf = 27 
-SAruman = 17
+Saruman = 17
 Sauron = 17
-#### Degree distribution
 
-Here we have to:
-- Analyse the results
-- Explain a intersting fact to explain to the readers
 
 ## 5 - Community detection
 
@@ -137,7 +133,8 @@ To summarize all the sentiments of the characters here is the ranking of the cha
 ![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
 
 
-More generally, it appears that Bilbo is one of the nicest person in the Middle Earth and especially all the hobits like Merry and Pippin and nice persons. But this analysis confirms what we were expecting, that Orcs, Gothmog and Grima are really bad persons. 
+More generally, it appears that Bilbo is one of the nicest person in the Middle Earth and especially all the hobits like Merry and Pippin are nice persons. But this analysis confirms what we were expecting, that Orcs, Gothmog and Grima are really bad persons. 
+
 But we also have some suprise like Saruman who is in th middle of the ranking which could be explain because in the beginning of the story is lying to Gandalf and faking to be a good magician.
 
 
