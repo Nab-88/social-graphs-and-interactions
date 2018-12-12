@@ -129,7 +129,7 @@ Here's the podium:
 
 - Frodo = 28 points
 - Gandalf = 27 points
-- Saruman = 17 points and Sauron = 17 points
+- Saruman and Sauron = 17 points each
 
 So we can see that Frodo is the most connected character, with Gandalf having almost the same score than him. Saruman and Sauron seem to be equally connected. So, Frodo is the real Lord of the Rings.
 
