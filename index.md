@@ -56,6 +56,7 @@ That's how we build the network that you can see bellow:
 ![alt text](./assets/All_books_graph.png "Network based on the chapters of the books")
 
 > The friendship paradox is the phenomenon that most people have fewer friends than their friends have, on average.
+
 The network based on the link inside wikipages passes the friendship paradox easily. However the network based on the chapters in the book does not in every instance, meaning that the networks there do actually not follow the power law.This also means that there are many large nodes in the graph and few smaller.
 
 
