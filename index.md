@@ -213,7 +213,11 @@ Wordclouds for every single chapter are included in the appendix of the notebook
 
 ![alt text](./assets/lexicaldispersion.png "Appearence of the names of main characters throughout the books.")
 
-This lexical dispersion plot shows at what times characters who speak the most in the Lord of the Rings movie trilogy are mentioned in the books. Note that for example Bilbo, who doesn't appear in the second movie, is mentioned a few times in the book. As well as that, we can see that Madril is a character who only appears in the movies, and not in the original novels.
+This lexical dispersion plot shows at what times characters who speak the most in the Lord of the Rings movie trilogy are mentioned in the books.
+
+Note that for example Bilbo, who doesn't appear in the second movie, is mentioned a few times in the book.
+
+As well as that, we can see that Madril is a character who only appears in the movies, and not in the original novels.
 
 ![alt text](./assets/wordsinmovie.png "Words mentioned by characters in each movie.")
 
