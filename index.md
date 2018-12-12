@@ -9,11 +9,11 @@ title: Lord of The Rings - Project
 
 1. [Introduction](#1---introduction)
 2. [Data](#2---data)
-3. Networks
-4. Basic Analysis
-5. Community Detection
-6. Text analysis and Sentiment analysis
-7. More details
+3. [Networks](#3---networks)
+4. [Basic Analysis](#4---data-analysis)
+5. [Community Detection](#5---community-detection)
+6. [Text analysis and Sentiment analysis](#6---sentiment-analysis-and-text-analysis)
+7. [More details](#7---more-details)
 
 ## 1 - Introduction 
 
@@ -104,6 +104,7 @@ One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, 
 #### Final Ranking
 
 So in order to really know who are the most important characters in Lord of the Rings story. We create a competition between each characters.
+
 Here's the podium:
 
 ![alt text](./assets/final_podium.png "Top 3 most important characters in Lord of the Rings")
@@ -112,10 +113,9 @@ Here's how we calculate the score:
 Each centrality indicator ranking gives you points: 10 if you arrive first, 9 if you arrive second etc..
 So the final score are:
 
-Frodo = 28
-Gandalf = 27 
-Saruman = 17
-Sauron = 17
+- Frodo = 28 points
+- Gandalf = 27 points
+- Saruman = 17 points and Sauron = 17 points
 
 
 ## 5 - Community detection
@@ -128,7 +128,7 @@ Here we have to:
 - And find the ties between community with cconfusion matrix
 
 
-## 6 - Sentiment analysis
+## 6 - Sentiment analysis and Text Analysis
 
 ### 6.1 - Sentiment analysis over characters
 
