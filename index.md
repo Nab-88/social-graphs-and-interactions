@@ -128,6 +128,8 @@ Here we have to:
 - Compare them
 - And find the ties between community with cconfusion matrix
 
+![alt text](./assets/Communities.png "Different communities found in the network")
+
 
 ## 6 - Sentiment analysis and Text Analysis
 
