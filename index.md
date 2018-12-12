@@ -169,4 +169,4 @@ It is interesting to see that only 6 of the chapters have an average sentiment s
 
 ### 6.3 - When a specific words is appearing in the story
 
-  Plot this.
+![alt text](./assets/lexicaldispersion.png "Appearence of the names of main characters throughout the books.")
