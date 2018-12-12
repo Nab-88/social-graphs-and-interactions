@@ -100,7 +100,7 @@ One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, 
 
 > The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality would have more control over the network because a lot of information will pass through him.
 
-
+Here Éowyn and Hàma are very high in the ranking even if they are secondary characters, because they are the link between and important characters and other characters for example Hàma is the right-hand of Théoden, so he has importance if you want to reach Théoden.
 
 #### Final Ranking
 
