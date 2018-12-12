@@ -121,7 +121,7 @@ Here Éowyn and Háma are very high in the ranking even if they are secondary ch
 
 #### Lord of the Rings Awards
 
-We wanted to present the most important characters of the Lord of the Rings through the centrality scores of the network created by the wikipages. We created a competition between the characters, and gave them a scored between 1 and 10 based on their placement in the centrality ranking.
+We wanted to present the most important characters of the Lord of the Rings through the centrality scores of the network created by the wikipages. We created a competition between the characters, and gave them a score between 1 and 10 based on their placement in the centrality ranking.
 
 Here's the podium:
 
@@ -130,6 +130,8 @@ Here's the podium:
 - Frodo = 28 points
 - Gandalf = 27 points
 - Saruman = 17 points and Sauron = 17 points
+
+So we can see that Frodo is the most connected character, with Gandalf having almost the same score than him. Saruman and Sauron seem to be equally connected. So, Frodo is the real Lord of the Rings.
 
 
 ## 5 - Community detection
