@@ -133,35 +133,27 @@ Here we have to:
 
 ### 6.1 - Sentiment analysis over characters
 
-
-We also wanted to know who are the nicest and badest guys in each book.
-
-We performed a sentiment analysis over each book:
-
-To summarize all the sentiments of the characters here is the ranking of the characters from the Nicest (on the left) to the baddest (on the right)
+For the characters we performed a sentimental analysis over each of their lines in the movies and calculated the score. 
 
 ![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
 
+High score indicated that Bilbo, Barliman and Treebeard were the nicest people throughout the movies. Other hobbits such as Merry and Pippin also score highly. It was surprising for us to see Legolas ranked fourth from bottom, but we believe that his frequent involvement in battles contributed with his low scores. Eomer is ranked lower than him, at the bottom, confirming our expectations of evil persons, we can see the two of Gríma and Gothmog, who are evil characters.
 
-More generally, it appears that Bilbo is one of the nicest person in the Middle Earth and especially all the hobits like Merry and Pippin are nice persons. But this analysis confirms what we were expecting, that Orcs, Gothmog and Grima are really bad persons. 
+Some other surprising results show Saruman in the middle of the pack, but in the beginning of the movie he played a good guy when speaking to Gandalf, raising his score.
 
-But we also have some suprise like Saruman who is in th middle of the ranking which could be explain because in the beginning of the story is lying to Gandalf and faking to be a good magician.
-
+Below we can see wordclouds for Bilbo and Saruman
 
 ![alt text](./assets/wordclouds/bilbo_wc.png "Most frequent words for Bilbo")
 
-
 ![alt text](./assets/wordclouds/saruman_wc.png "Most frequent words for Saruman")
-
-We can see that the most words most frequently said by Saruman are : Burn, Sauron, Fire, War ...
 
 ### 6.2 - Evolution of sentiments over the books
 
-Thanks to the sentiment analysis we performed we are able to know when are the darkest and the happiest time of the story
+Thanks to the sentiment analysis we performed we are able to know when the darkest and happiest time of the story occur.
 
 ![alt text](./assets/sentiment.png "Evolution of sentiments through the story chapter by chapter")
 
-To perform the sentiment analysis, we used a database of 10.000 words of the English language, each word in this database is associated to its own sentimental score. Thanks to that, we are able to perform the sentimental analysis on chapters of the book or on what people are saying in the movies.
+To perform the sentiment analysis, we used a database of a little more than 10.000 English words, each word in this database is associated to its own sentimental score. Thanks to that, we are able to perform the sentimental analysis on chapters of the book or on what people are saying in the movies.
 
 It is interesting to see that only 6 of the chapters have an average sentiment score higher than our database, meaning that in general the novels has a higher prevalence of words with a lower sentiment rating. However, note that the database we used has 10,222 words, while the number of words in the book is more than 500,000 words long, with multiple languages (Elvish and English) and a high number of words used infrequently in general in modern English.
 
@@ -182,6 +174,8 @@ The chapter with the highest sentiment ranking is Farewell to Lorien, also in th
 This lexical dispersion plot shows at what times characters who speak the most in the Lord of the Rings movie trilogy are mentioned in the books. Note that for example Bilbo, who doesn't appear in the second movie, is mentioned a few times in the book. As well as that, we can see that Madril is a character who only appears in the movies, and not in the original novels.
 
 ![alt text](./assets/wordsinmovie.png "Words mentioned by characters in each movie.")
+
+Wordclouds for every single chapter are included in the appendix of the notebook. People who might not have time to read the whole book can possibly get the gist of what's happening in throughout the book simply by viewing the wordclouds.
 
 ## 7 - More details
 
