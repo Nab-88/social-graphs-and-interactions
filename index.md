@@ -161,7 +161,7 @@ Here we have to:
 
 #### Confusion Matrix
 
-![alt text](./assets/confusion_confusion_matrix.PNG "Confusion Matrix")
+![alt text](./assets/confusing_confusion_matrix.PNG "Confusion Matrix")
 
 ## 6 - Sentiment analysis and Text Analysis
 
