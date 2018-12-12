@@ -123,19 +123,6 @@ We also wanted to know who are the nicest and badest guys in each book.
 
 We performed a sentiment analysis over each book:
 
-![alt text](./assets/LOTR1_sent_movie.png "Ranking for movie 1")
-
-![alt text](./assets/LOTR2_sent_movie.png "Ranking for movie 2")
-
-![alt text](./assets/LOTR3_sent_movie.png "Ranking for movie 3")
-
-| Book                          | Top 3 Nicest        |Top 3 Baddest |
-| -----------------------------:|--------------------:| -------:|
-| The Fellowship of the Ring    | Bilbo, Pippin, Barliman        | Sam, Boromir, Saruman    |
-| The Two Towers                | Boromir, Arwen, Soldier          | Grima, Smeagol, Orc    |
-| The Return of The King        | Treebeard, Bilbo, Smeagol          | Gothmog, Eomer, Legolas    |
-
----
 
 To summarize all the sentiments of the characters here is the ranking of the characters from the Nicest (on the left) to the baddest (on the right)
 
