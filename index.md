@@ -19,7 +19,7 @@ title: Lord of The Rings - Project
 
 {% include video.html %}
 
-A world which has cought the imagination of most children growing up in this current and last century, and certainly all of our group members, is Middle-earth, created by J.R.R. Tolkien. The most notable recent appearences of it and the one which we are going to analyze in this assignment its portrayed in the recent film trilogy directer by Peter Jackson, as well as examinining the fan created One Wiki to Rule Them All, and the three novels originally published in 1954 and 1955.
+Middle-earth is a world which has cought the imagination of most children growing up in this current and last century, and certainly all of our group members,a world created by J.R.R. Tolkien. The most notable recent appearences of this amazing story and the one which we are going to analyze in this assignment its portrayed in the recent film trilogy directer by Peter Jackson. We also will be examinining the fan created One Wiki to Rule Them All, and the three novels originally published in 1954 and 1955.
 
 Due to our focus only being on the Lord of the Rings, and not on other work by J.R.R. Tolkien, we only downloaded the data of characters present in the trilogy. the number of mentioned characters of Middle-earth on the website is 988, but only 152 of them are present in Lord of the Rings movies. We also found the novels on archive.org and the movie transcripts.
 
