@@ -60,20 +60,19 @@ That's how we build the network that you can see bellow:
 
 ### Wiki Network
 
-# FALSE we need to do everything again with Sauron.
 
 | Degree | Eigen Vector | Betweeness |
 | ----------------:| -------:|-------:|
-|Frodo (0.54)   | Gandalf (0.319)       |Frodo (0.13)   | 
-|Gandalf (0.43)  | Frodo (0.318)       |Gandalf (0.09)	   |
-|Saruman (0.36)   | Gimli (0.29)     |Eowyn (0.084)   | 
-|Merry (0.31)   | Legolas (0.28)      |Merry (0.067)   | 
-|Pippin (0.28)   | Elrond (0.27)    |Saruman (0.065)   |
-|Legolas (0.265)   |  Galadriel (0.24)       |Hàma (0.064)   |
-|Sam (0.258)  | Saruman (0.23)     | Sam (0.06)       |
-|Galadriel (0.245)   | Sam (0.19)       |Gamling (0.058)   | 
-|Gimli (0.245)   | Gollum (0.18	)     |Théoden (0.0511)   |
-|Théoden (0.24)   | Boromir (0.17)       |Grishnákh (0.051)   | 
+|Frodo (0.55)   | Sauron (0.33)       |Frodo (0.12)   | 
+|Gandalf (0.44)  | Gandalf (0.311)       |Gandalf (0.089)	   |
+|Saruman (0.37)   | Frodo (0.310)     |Eowyn (0.084)   | 
+|Sauron (0.32)   | Elrond (0.27)      |Merry (0.066)   | 
+|Mery (0.31)   | Gimli (0.26)    |Saruman (0.065)   |
+|Pippin (0.30)   |  Legolas (0.249)       |Hàma (0.063)   |
+|Legolas (0.27)  | Galadriel (0.246)     | Sam (0.06)       |
+|Galadriel (0.26)   | Saruman (0.23)       |Gamling (0.058)   | 
+|Sam (0.26)   | Gollum (0.18	)     |Grishnákh (0.051)    |
+|Gimli (0.25)   | Sam (0.17)       |Théoden (0.051)| 
 
 #### Degree:
 
