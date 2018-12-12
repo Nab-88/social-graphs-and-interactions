@@ -168,10 +168,10 @@ In order to detect communities in the network we implemented the Louvain algorit
 |                      |                          | The King of the Dead |                            | Shelob                  |                           |                          |             |                                |              |              |
 |                      |                          | Radagast             |                            |                         |                           |                          |             |                                |              |              |
 
-We can see here how the communities are divided among the different races of middle earth. Communities 4 and 9 include mostly men. Communities 1 and 6 have mostly Hobbits, Community 3 is the Elvish one. Some communities, such as 5 and 2 seem to be more of a mix. That happens due to the battles and adventures throughout the story, forming connections appearing on the wikipages. A few characters seem to be very unconnected to other, and form a single person group.
+We can see here how the communities are divided among the different races of middle earth. Communities 4 and 9 include mostly men. Communities 1 and 6 have mostly Hobbits, Community 3 is the Elvish one. Some communities, such as 5 and 2 seem to be more of a mix. That happens due to the battles and adventures throughout the story, forming connections appearing on the wikipages. A few characters seem to be very unconnected to others, and form a single person group.
 
 So in conclusion, there are large communities including mainly a single race, while other communities are mixed.
-In the confusion Matrix below we are able to see the rece division among the communities.
+In the confusion Matrix below we are able to see the race division among the communities.
 
 #### Confusion Matrix
 
