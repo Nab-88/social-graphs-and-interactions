@@ -60,9 +60,30 @@ That's how we build the network that you can see bellow:
 
 ### Wiki Network
 
-| Indegree                          | Outdegree       |Total degree | eigen Vector | Betweeness |Closeness |
-| -----------------------------:|--------------------:| -------:| -------:|-------:| -------:|
-| Frodo (X)   | Bilbo (Y)       | Frodo (X)   | Bilbo (Y)       |Frodo (X)   | Bilbo (Y)       |
+# FALSE we need to do everything again with Sauron.
+
+| Degree | Eigen Vector | Betweeness |Closeness |
+| ----------------:| -------:|-------:| -------:|
+|Frodo (0.54)   | Gandalf (0.319)       |Frodo (0.13)   | Frodo (0.54)       |
+|Gandalf (0.43)  | Frodo (0.318)       |Gandalf (0.09)	   | Gandalf (0.53)       |
+|Saruman (0.36)   | Gimli (0.29)     |Eowyn (0.084)   | Saruman (0.479)       |
+|Merry (0.31)   | Legolas (0.28)      |Merry (0.067)   | Merry (0.475)       |
+|Pippin (0.28)   | Elrond (0.27)    |Saruman (0.065)   | Sam (0.462)       |
+|Legolas (0.265)   |  Galadriel (0.24)       |Hàma (0.064)   | Legolas (0.462)       |
+|Sam (0.258)  | Saruman (0.23)     | Sam (0.06)       | Elrond (0.459)
+|Galadriel (0.245)   | Sam (0.19)       |Gamling (0.058)   | Gimli (0.457)       |
+|Gimli (0.245)   | Gollum (0.18	)     |Théoden (0.0511)   | Bilbo (0.456)       |
+|Théoden (0.24)   | Boromir (0.17)       |Grishnákh (0.051)   | Gollum (0.452)       |
+
+#### Degree:
+
+So as we could expect Frodo is the most connected character (a degree of 0.54 means that Frodo is connected to 54% of the characters of the story).
+Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it could be explain by the fact that during the story they have been seperated from the other members of the Fellowship of the Rings, and during this time alone, they are meeting with a lot of secondary characters.
+
+#### Eigen Vector:
+
+
+
 
 #### Who is the most connected charaters 
 
