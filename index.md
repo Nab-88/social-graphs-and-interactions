@@ -159,6 +159,10 @@ Here we have to:
 |                      |                          | Radagast             |                            |                         |                           |                          |             |                                |              |              |
 
 
+#### Confusion Matrix
+
+![alt text](./assets/confusion_confusion_matrix.PNG "Confusion Matrix")
+
 ## 6 - Sentiment analysis and Text Analysis
 
 ### 6.1 - Sentiment analysis over characters
