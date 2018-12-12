@@ -97,7 +97,7 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 So in order to really know who are the most important characters in Lord of the Rings story. We create a competition between each characters.
 Here's the podium:
 
-<insert photo>
+![alt text](./assets/final_podium.png "Top 3 most important characters in Lord of the Rings")
   
 Here's how we calculate the score:
 Each centrality indicator ranking gives you points: 10 if you arrive first, 9 if you arrive second etc..
