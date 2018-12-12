@@ -61,7 +61,7 @@ That's how we build the network that you can see bellow:
 ### Wiki Network
 
 
-| Degree | Eigen Vector | Betweeness |
+| Degree | Eigenvector | Betweeness |
 | ----------------:| -------:|-------:|
 |Frodo (0.55)   | Sauron (0.33)       |Frodo (0.12)   | 
 |Gandalf (0.44)  | Gandalf (0.311)       |Gandalf (0.089)	   |
@@ -73,6 +73,9 @@ That's how we build the network that you can see bellow:
 |Galadriel (0.26)   | Saruman (0.23)       |Gamling (0.058)   | 
 |Sam (0.26)   | Gollum (0.18	)     |Grishnákh (0.051)    |
 |Gimli (0.25)   | Sam (0.17)       |Théoden (0.051)| 
+
+
+
 
 #### Degree:
 
@@ -89,14 +92,21 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 
 > The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality would have more control over the network because a lot of information will pass through him.
 
+#### Final Ranking
 
-#### Who is the most connected charaters 
+So in order to really know who are the most important characters in Lord of the Rings story. We create a competition between each characters.
+Here's the podium:
 
-Here we have to :
-- precise if there are differences between the graph and to interpret these differences
-- Analyse the result 
-- Find funny or weird result
+<insert photo>
+  
+Here's how we calculate the score:
+Each centrality indicator ranking gives you points: 10 if you arrive first, 9 if you arrive second etc..
+So the final score are:
 
+Frodo = 28
+Gandalf = 27 
+SAruman = 17
+Sauron = 17
 #### Degree distribution
 
 Here we have to:
