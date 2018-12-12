@@ -169,6 +169,8 @@ The chapter with the highest sentiment ranking is Farewell to Lorien, also in th
 
 ![alt text](./assets/best_chapter.png "Word cloud of chapter with the lowest sentiment score")
 
+Wordclouds for every single chapter are included in the appendix of the notebook. People who might not have time to read the whole book can possibly get the gist of what's happening in throughout the book simply by viewing the wordclouds.
+
 ### 6.3 - When a specific words is appearing in the story
 
 ![alt text](./assets/lexicaldispersion.png "Appearence of the names of main characters throughout the books.")
@@ -176,8 +178,6 @@ The chapter with the highest sentiment ranking is Farewell to Lorien, also in th
 This lexical dispersion plot shows at what times characters who speak the most in the Lord of the Rings movie trilogy are mentioned in the books. Note that for example Bilbo, who doesn't appear in the second movie, is mentioned a few times in the book. As well as that, we can see that Madril is a character who only appears in the movies, and not in the original novels.
 
 ![alt text](./assets/wordsinmovie.png "Words mentioned by characters in each movie.")
-
-Wordclouds for every single chapter are included in the appendix of the notebook. People who might not have time to read the whole book can possibly get the gist of what's happening in throughout the book simply by viewing the wordclouds.
 
 ## 7 - More details
 
