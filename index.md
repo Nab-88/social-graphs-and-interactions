@@ -76,7 +76,7 @@ The network based on the link inside wikipages passes the friendship paradox eas
 ## 4 - Basic Analysis 
 
 
-> For this section we decided to present the work we did on the Network obtained with the Wikipages.
+> In this section we decided to present the basic analysis we did on the Network obtained with the Wikipages.
 
 
 | Degree | Eigenvector | Betweeness |
@@ -101,7 +101,7 @@ The network based on the link inside wikipages passes the friendship paradox eas
 
 So as we could expect Frodo is the most connected character (a degree of 0.54 means that Frodo is connected to 54% of the characters of the story).
 
-Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it could be explain by the fact that during the story they have been seperated from the other members of the Fellowship of the Rings, and during this time alone, they are meeting with a lot of secondary characters.
+Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, this could be explain by the fact that during the story they have been seperated from the other members of the Fellowship of the Rings, and during this time alone, they met a lot of secondary characters.
 
 #### Eigenvector:
 
@@ -109,9 +109,9 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 
 Unsurprisingly, Sauron is the most influent character of the story. Which can be explain because he is the person who created the Rings, so he's basically the Lord of the Rings.
 
-Gollum also appears in the top 10 most influent characters of the story because he is playing a key role in the story when he helps Frodo to bring the Ring to Mordor.
+Gollum also appears in the top 10 most influent characters of the story because he plays a key role in the story when he helps Frodo to bring the Ring to Mordor.
 
-One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, Elrond, Galadriel, Saruman (even if he is bad)) in this top 10, because they have a lot of influence over other characters through the story.
+One thing worth noticing, is that there is a good number of "wise" characters (Gandalf, Elrond, Galadriel, Saruman (even if he is bad)) in the top 10, this is because they have a lot of influence over other characters throughout the story.
 
 #### Betweeness:
 
