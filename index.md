@@ -171,7 +171,7 @@ Here we have to:
 
 ### 6.1 - Sentiment analysis over characters
 
-For the characters we performed a sentimental analysis over each of their lines in the movies and calculated the score. 
+For the characters we performed a sentimental analysis over each of their words in the movies and calculated the score. 
 
 ![alt text](./assets/lotr_sent_total.png "Ranking for characters who appears in the three movies")
 
