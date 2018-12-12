@@ -21,9 +21,9 @@ title: Lord of The Rings - Project
 
 Middle-earth is a world which has cought the imagination of most children growing up in this current and last century, and certainly all of our group members,a world created by J.R.R. Tolkien. The most notable recent appearences of this amazing story and the one which we are going to analyze in this assignment its portrayed in the recent film trilogy directer by Peter Jackson. We also will be examinining the fan created One Wiki to Rule Them All, and the three novels originally published in 1954 and 1955.
 
-Due to our focus only being on the Lord of the Rings, and not on other work by J.R.R. Tolkien, we only downloaded the data of characters present in the trilogy. the number of mentioned characters of Middle-earth on the website is 988, but only 152 of them are present in Lord of the Rings movies. We also found the novels on archive.org and the movie transcripts.
+Due to our focus only being on the Lord of the Rings, and not on other work by J.R.R. Tolkien, we only downloaded the data of characters present in the trilogy. the number of mentioned characters of Middle-earth on the website is 988, but only 152 of them are present in Lord of the Rings trilogy movies. We also found the novels and movie transcripts on archive.org.
 
-The final goal of this experiment is to understand the movie (the trilogy) and books better, in order to see the differences between them. To see how the character related to each other, see the importance of the characters from both the movies and the book. We also wnat to understand the sentiment of each book and character and see the evolution of the sentiment throughout.
+The final goal of this experiment is to understand the movies (the trilogy) and books better in order to see the differences between them. To see how the character related to each other, see the importance of the characters from both the movies and the book. We also wnat to understand the sentiment of each book and character and see the evolution of the sentiment throughout.
 
 ## 2 - Data
 We divided our analysis in three different sections, based on the datasets obtained.
@@ -41,7 +41,7 @@ We found a dataset, containing what the characters of the movies are saying. [Cl
 
 #### 3. Books
 
-We downloaded the three books from J.R.R Tolkien from [this website.](https://archive.org/)
+We downloaded the three books by J.R.R Tolkien from [this website.](https://archive.org/)
 Here you can download the books we used for our project.
 - [Book 1 - The Fellowship of the Ring](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR1_book_CLEAN.txt)
 - [Book 2 - The Two Towers](https://github.com/Nab-88/social-graphs-and-interactions/blob/master/datasets/LOTR3_book_CLEAN.txt)
