@@ -58,7 +58,8 @@ That's how we build the network that you can see bellow:
 
 ## 4 - Basic Analysis 
 
-### Wiki Network
+
+> For this section we decided to present the work we did on the Network obtained with the Wikipages.
 
 
 | Degree | Eigenvector | Betweeness |
@@ -88,9 +89,17 @@ Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it 
 
 > The eigen vector centrality measures the influence of a character in the network.
 
+Unsurprisingly, Sauron is the most influent character of the story. Which can be explain because he is the person who created the Rings, so he's basically the Lord of the Rings.
+
+Gollum is also appearing in the top 10 most influent characters of the story because he is playing a key role in the story when he helps Frodo to bring the Ring to Mordor.
+
+One thing worth noticing, is that there is a lot of "wise" characters (Gandalf, Elrond, Galadriel, Saruman (even if he is bad)) in this top 10, because they have a lot of influence over other characters through the story.
+
 #### Betweeness:
 
 > The betweeness centrality measures how central is a character in the network. A character with high betweeness centrality would have more control over the network because a lot of information will pass through him.
+
+
 
 #### Final Ranking
 
