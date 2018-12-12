@@ -181,4 +181,4 @@ This lexical dispersion plot shows at what times characters who speak the most i
 
 ## 7 - More details
 
-If you are interested about how we come up to these results and you want to see our code you go check [this link to have access to our jupyter notebook.](http://nbviewer.jupyter.org/github/Nab-88/social-graphs-and-interactions/blob/master/notebook/final_version.ipynb)
+If you are interested about how we came up to these results and you want to see our code you ca, check [this link to have access to our Explainer Notebook.](http://nbviewer.jupyter.org/github/Nab-88/social-graphs-and-interactions/blob/master/notebook/final_version.ipynb)
