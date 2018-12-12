@@ -159,8 +159,8 @@ Thanks to the sentiment analysis we performed we are able to know when are the d
 
 ![alt text](./assets/sentiment.png "Evolution of sentiments through the story chapter by chapter")
 
-We then try to know  what happens during these two moments: chapter X and chapter Y.
-Then we performed a text analysis on those two chapters, here are the words clouds of these two chapters:
+It is interesting to see that only 6 of the chapters have an average sentiment score higher than our database, meaning that in general the novels has a higher prevalence of words with a lower sentiment rating. However, note that the database we used has 10,222 words, while the number of words in the book is more than 500,000 words long, with multiple languages (Elvish and English) and a high number of words used infrequently in general in modern English.
+
 
 -->include word cloud when gandalf dies <--
 
