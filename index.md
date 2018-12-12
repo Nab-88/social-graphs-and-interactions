@@ -12,8 +12,8 @@ title: Lord of The Rings - Project
 3. Networks
 4. Basic Analysis
 5. Community Detection
-6. Text analysis
-7. Sentiment analysis
+6. Text analysis and Sentiment analysis
+7. More details
 
 ## 1 - Introduction 
 
@@ -171,3 +171,8 @@ It is interesting to see that only 6 of the chapters have an average sentiment s
 This lexical dispersion plot shows at what times characters who speak the most in the Lord of the Rings movie trilogy are mentioned in the books. Note that for example Bilbo, who doesn't appear in the second movie, is mentioned a few times in the book. As well as that, we can see that Madril is a character who only appears in the movies, and not in the original novels.
 
 ![alt text](./assets/wordsinmovie.png "Words mentioned by characters in each movie.")
+
+## 7 - More details
+
+If you are interested about how we come up to these results and you want to see our code you go check this link to have access to our jupyter notebook
+<a href="http://nbviewer.jupyter.org/github/Nab-88/social-graphs-and-interactions/blob/master/notebook/final_version.ipynb" class="btn">View Explainer Notebook</a>
