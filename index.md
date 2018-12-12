@@ -19,6 +19,12 @@ title: Lord of The Rings - Project
 
 {% include video.html %}
 
+A world which has cought the imagination of most children growing up in this current and last century, and certainly all of our group members is Middle-earth, created by J.R.R. Tolkien. The most notable recent appearences of it and the one which we are going to analyze in this assignment is it's portrayal in the recent film trilogy directer by Peter Jackson, as well as examinining the fan created One Wiki to Rule Them All, and the three novels originally published in 1954 and 1955.
+
+Due to our focus only being on the Lord of the Rings, and not on other works of J.R.R. Tolkien, we only downloaded the data of characters present in that certain trilogy. Mentioned residents of Middle-earth on the website are 988, but only 152 of them are present in Lord of the Rings. We also found the novels on archive.org and the movie transcripts.
+
+The final goal of this experiment is to understand the movie (the trilogy) and books better, also to see the differences among them. To see how the character related to each other, see the importance of the characters from both the movies and then book. Understand the sentiment of each book and character and see the evolution of the sentiment through out.
+
 ## 2 - Data
 We divided our analysis in three different ones, based on the datasets we had.
 
