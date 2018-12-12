@@ -83,6 +83,7 @@ That's how we build the network that you can see bellow:
 > The degree centrality measures how a character is connected in the network.
 
 So as we could expect Frodo is the most connected character (a degree of 0.54 means that Frodo is connected to 54% of the characters of the story).
+
 Surprisingly Merry and Pippin are the 3rd and 4th most connected characters, it could be explain by the fact that during the story they have been seperated from the other members of the Fellowship of the Rings, and during this time alone, they are meeting with a lot of secondary characters.
 
 #### Eigen Vector:
